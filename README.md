@@ -38,3 +38,6 @@ By aggregating the calculated metrics and correlating them with TAC levels, I co
 
 ## Conclusion
 In this project, I explored how alcohol consumption affects human movement by analyzing accelerometer data with advanced entropy and complexity measures. The analysis revealed clear patterns that vary with alcohol levels, showing promise for developing models to predict alcohol consumption based on movement. This work opens new doors for using technology to monitor and address excessive drinking, highlighting the value of sophisticated data analysis in health and behavior studies.
+
+### Dataset
+Bar Crawl: Detecting Heavy Drinking. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5TK6G.
